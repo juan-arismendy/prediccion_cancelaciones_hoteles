@@ -17,13 +17,13 @@ El objetivo es ayudar a los hoteles a anticipar cancelaciones y optimizar la ges
 
 ---
 
-📝 ## Descripción
+## Descripción 📝
 La predicción de cancelaciones es crucial para la industria hotelera.  
 Este proyecto analiza datos históricos de reservaciones para identificar patrones y predecir la probabilidad de cancelación de una reserva.
 
 ---
 
-⚙️ ## Instalación
+## Instalación ⚙️ 
 
 1. **Clona este repositorio:**  
    git clone https://github.com/Juanda16/prediccion_cancelaciones_hoteles.git
@@ -34,7 +34,7 @@ Este proyecto analiza datos históricos de reservaciones para identificar patron
 ---
 
 
-🚀 ## Uso
+## Uso 🚀 
 
 Ejecuta el script principal para entrenar el modelo y hacer predicciones:  
 python main.py
@@ -43,14 +43,14 @@ _Asegúrate de tener el archivo de datos en la carpeta correspondiente._
 
 ---
 
-📊 ## Datos
+## Datos 📊 
 
 - **Fuente:** [Incluye aquí la fuente del dataset si es posible]
 - **Preprocesamiento:** Limpieza de datos, manejo de valores nulos y transformación de variables categóricas.
 
 ---
 
-🧠 ## Metodología
+## Metodología 🧠 
 
 - **Exploración de datos:** Análisis estadístico y visualización.
 - **Modelos utilizados:** Regresión logística, Random Forest, XGBoost.
@@ -58,7 +58,7 @@ _Asegúrate de tener el archivo de datos en la carpeta correspondiente._
 
 ---
 
-📈 ## Resultados
+## Resultados 📈 
 
 - **Precisión del modelo:** XX%
 - **Principales factores de cancelación:**
@@ -67,14 +67,14 @@ _Asegúrate de tener el archivo de datos en la carpeta correspondiente._
 
 ---
 
-🤝 ## Contribuciones
+## Contribuciones 🤝 
 
 ¡Las contribuciones son bienvenidas!  
 Por favor, abre un _issue_ o un _pull request_ para proponer mejoras o correcciones.
 
 ---
 
-📝 ## Licencia
+## Licencia 📝 
 
 Este proyecto está bajo la licencia **MIT**. Consulta el archivo LICENSE para más información.
 
