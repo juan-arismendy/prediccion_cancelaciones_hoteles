@@ -33,6 +33,7 @@ Este proyecto analiza datos históricos de reservaciones para identificar patron
 
 ---
 
+## Uso
 ## 🚀 **Uso**
 
 Ejecuta el script principal para entrenar el modelo y hacer predicciones:  
