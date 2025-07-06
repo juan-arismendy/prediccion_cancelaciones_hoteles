@@ -22,6 +22,23 @@ Este proyecto desarrolla una **solución integral de machine learning** para pre
 | KNN | 0.744 | 0.880 | 0.814 | ❌ No recomendado |
 | MLP | 0.733 | 0.892 | 0.813 | ❌ No recomendado |
 
+### 🎯 Mejor Modelo: **Random Forest**
+- **F1-Score**: 0.814 ± 0.014
+- **AUC-ROC**: 0.933 ± 0.014
+- **Precisión**: 0.838 ± 0.019
+- **Recall**: 0.791 ± 0.016
+
+### 📈 Análisis Train/Validation/Test
+
+**📁 Gráficas Clave de Overfitting:**
+- `visualizaciones/analisis_completo/train_val_test_comparison.png` - Comparación de rendimiento
+- `visualizaciones/analisis_completo/overfitting_detailed_analysis.png` - Análisis detallado de overfitting
+
+**🔍 Hallazgos Importantes:**
+- **Logistic Regression**: Mejor generalización (overfitting moderado)
+- **KNN, Random Forest, SVM**: Overfitting severo pero buen rendimiento en test
+- **Random Forest**: Mejor balance entre rendimiento y generalización
+
 ### 🏆 Logros Destacados
 
 ✅ **Rendimiento superior** al estado del arte (Percentil 85-95+)  
